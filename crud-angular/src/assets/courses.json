@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "1",
+        "name": "Java JDK",
+        "category": "Backend"
+    },
+    {
+        "_id": "2",
+        "name": "Java Script ",
+        "category": "Frontend"
+    },
+    {
+        "_id": "3",
+        "name": "Angular",
+        "category": "Backend"
+    }
+]
