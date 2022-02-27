@@ -16,9 +16,9 @@ Before you begin, make sure you have met the following requirements:
 
 If you need installation instructions, [click here]("...").
 
-## 🚀 Installing ...
+## 🚀 Installing CrudAngularSpring
 
-To install ..., follow these steps:
+To install CrudAngularSpring, follow these steps:
 
 1º Clone the repository.
 
@@ -26,22 +26,22 @@ To install ..., follow these steps:
 >  git clone https://github.com/joabehenrique/crud-angular-spring.git
 ```
 
-## ☕ Using ...
+## ☕ Using CrudAngularSpring
 
-To use ..., follow these steps:
+To use CrudAngularSpring, follow these steps:
 
 ```
 >
 ```
 
-## 📫 Contributing to Exlivery
+## 📫 Contributing to CrudAngularSpring
 
-To contribute to Exlivery, follow these steps:
+To contribute to CrudAngularSpring, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Send to the original branch: `git push origin Exlivery / <local>`
+4. Send to the original branch: `git push origin CrudAngularSpring / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)..
